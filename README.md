@@ -7,7 +7,7 @@ I am from the San Francisco Bay Area, and am trying my best to get used to this 
 ### Weather in Urbana-Champaign
 
 It's really cold here, but it still isnt snowing. Contact me if you know when its going to start snowing!
-![Golden Gate Park](https://i.pinimg.com/564x/b8/aa/b2/b8aab2302735ebfcb9e5aa9bd9c85a4b.jpg)
+![Beach](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvD1gyBgOe9qPx13lF6DmXpikk4d0pNsodq_lZS0vt-KcioLFwAA)
 
 ### Things I miss about California
 
