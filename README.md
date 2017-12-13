@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my First Website
 
-You can use the [editor on GitHub](https://github.com/bishalg2/bishalghosh/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Sophomore at UIUC on path to major in Computer Science and Economics 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am from the San Francisco Bay Area, and am trying my best to get used to this weather
 
-### Markdown
+### Weather in Urbana- Champaign
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
