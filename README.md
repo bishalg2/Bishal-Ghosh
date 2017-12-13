@@ -4,31 +4,12 @@ I am a Sophomore at UIUC on path to major in Computer Science and Economics
 
 I am from the San Francisco Bay Area, and am trying my best to get used to this weather
 
-### Weather in Urbana- Champaign
+### Weather in Urbana-Champaign
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It's really cold here, but it still isnt snowing. Contact me if you know when its going to start snowing!
+![Golden Gate Park](https://i.pinimg.com/564x/b8/aa/b2/b8aab2302735ebfcb9e5aa9bd9c85a4b.jpg)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Things I miss about California
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bishalg2/bishalghosh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
